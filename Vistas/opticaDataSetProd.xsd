@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="opticaDataSetProd" targetNamespace="http://tempuri.org/opticaDataSetProd.xsd" xmlns:mstns="http://tempuri.org/opticaDataSetProd.xsd" xmlns="http://tempuri.org/opticaDataSetProd.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="conexion" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="conexion (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Vistas.Properties.Settings.GlobalReference.Default.conexion" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_ProductoClienteTableAdapter" GeneratorDataComponentClassName="View_ProductoClienteTableAdapter" Name="View_ProductoCliente" UserDataComponentName="View_ProductoClienteTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conexion (Settings)" DbObjectName="dbo.View_ProductoCliente" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Cli_Apellido, Cli_Nombre, Prod_Categoria, Cli_DNI, Ven_Nro, Prod_Codigo, Ven_Fecha FROM dbo.View_ProductoCliente</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cli_Apellido" DataSetColumn="Cli_Apellido" />
+              <Mapping SourceColumn="Cli_Nombre" DataSetColumn="Cli_Nombre" />
+              <Mapping SourceColumn="Prod_Categoria" DataSetColumn="Prod_Categoria" />
+              <Mapping SourceColumn="Cli_DNI" DataSetColumn="Cli_DNI" />
+              <Mapping SourceColumn="Ven_Nro" DataSetColumn="Ven_Nro" />
+              <Mapping SourceColumn="Prod_Codigo" DataSetColumn="Prod_Codigo" />
+              <Mapping SourceColumn="Ven_Fecha" DataSetColumn="Ven_Fecha" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="opticaDataSetProd" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="opticaDataSetProd" msprop:Generator_UserDSName="opticaDataSetProd">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_ProductoCliente" msprop:Generator_TableClassName="View_ProductoClienteDataTable" msprop:Generator_TableVarName="tableView_ProductoCliente" msprop:Generator_TablePropName="View_ProductoCliente" msprop:Generator_RowDeletingName="View_ProductoClienteRowDeleting" msprop:Generator_UserTableName="View_ProductoCliente" msprop:Generator_RowChangingName="View_ProductoClienteRowChanging" msprop:Generator_RowEvHandlerName="View_ProductoClienteRowChangeEventHandler" msprop:Generator_RowDeletedName="View_ProductoClienteRowDeleted" msprop:Generator_RowEvArgName="View_ProductoClienteRowChangeEvent" msprop:Generator_RowChangedName="View_ProductoClienteRowChanged" msprop:Generator_RowClassName="View_ProductoClienteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cli_Apellido" msprop:Generator_ColumnVarNameInTable="columnCli_Apellido" msprop:Generator_ColumnPropNameInRow="Cli_Apellido" msprop:Generator_ColumnPropNameInTable="Cli_ApellidoColumn" msprop:Generator_UserColumnName="Cli_Apellido" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cli_Nombre" msprop:Generator_ColumnVarNameInTable="columnCli_Nombre" msprop:Generator_ColumnPropNameInRow="Cli_Nombre" msprop:Generator_ColumnPropNameInTable="Cli_NombreColumn" msprop:Generator_UserColumnName="Cli_Nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prod_Categoria" msprop:Generator_ColumnVarNameInTable="columnProd_Categoria" msprop:Generator_ColumnPropNameInRow="Prod_Categoria" msprop:Generator_ColumnPropNameInTable="Prod_CategoriaColumn" msprop:Generator_UserColumnName="Prod_Categoria">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cli_DNI" msprop:Generator_ColumnVarNameInTable="columnCli_DNI" msprop:Generator_ColumnPropNameInRow="Cli_DNI" msprop:Generator_ColumnPropNameInTable="Cli_DNIColumn" msprop:Generator_UserColumnName="Cli_DNI">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ven_Nro" msprop:Generator_ColumnVarNameInTable="columnVen_Nro" msprop:Generator_ColumnPropNameInRow="Ven_Nro" msprop:Generator_ColumnPropNameInTable="Ven_NroColumn" msprop:Generator_UserColumnName="Ven_Nro" type="xs:int" />
+              <xs:element name="Prod_Codigo" msprop:Generator_ColumnVarNameInTable="columnProd_Codigo" msprop:Generator_ColumnPropNameInRow="Prod_Codigo" msprop:Generator_ColumnPropNameInTable="Prod_CodigoColumn" msprop:Generator_UserColumnName="Prod_Codigo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ven_Fecha" msprop:Generator_ColumnVarNameInTable="columnVen_Fecha" msprop:Generator_ColumnPropNameInRow="Ven_Fecha" msprop:Generator_ColumnPropNameInTable="Ven_FechaColumn" msprop:Generator_UserColumnName="Ven_Fecha" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,286 @@
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+c:\users\openix-200908\documents\visual studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Openix-200908\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\Openix-200908\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\Openix-200908\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\Openix-200908\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\agust\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\agust\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Downloads\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\Carpeta-tp2\LPOOI_GRUPO_SSJ-G05\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+\\VBOXSVR\tp2-lpoo\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\Carpeta-tp2\tp3\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.buscarCliente.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\GitHub\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\Carpeta-tp2\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\4 07 22\tpFINAL\tpFINAL\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\Carpeta-tp2\trabajo final grupal\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\LPOOI_GRUPO_SSJ-G05\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.btnSeleccionarCliente.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.ClienteForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.ListadoProductoForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.ListadoVentaForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.LoginForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.MenuAdministradorForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.MenuForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.MenuOperadorForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.ObraSocialForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.ProductoForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.UserForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\Vistas.VentaForm.resources
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\LPOO\LPOOI_GRUPO05_SSJ-TPFINAL\LPOOI_GRUPO_SSJ-G05-RiosCoroGimenez\Vistas\bin\Debug\ClasesBase.pdb
